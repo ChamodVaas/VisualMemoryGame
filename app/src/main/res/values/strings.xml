@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LabExam4</string>
+    <string name="title">Test Your visual memory</string>
+    <string name="score">Highest Win Streak</string>
+    <string name="winstreak">Your Win Streak</string>
+</resources>
